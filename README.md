@@ -1,9 +1,20 @@
-<h3 align="center">
-  السلام عليكم - As-salamu alaykum
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p align="center">
+    <a href="https://luvimsan.github.io" >
+        <img src="https://img.shields.io/badge/Website-luvimsan.github.io-005f5f?style=flat-square&logo=hugo&logoColor=white">
+    </a>
+</p>
 
-### Tools & Technologies
 
-![My Skills](http://skillicons.dev/icons?i=c,go,bash,lua,git,github,docker,neovim,linux,&perline=7)
+<h3>Hi, I'm Luvimsan, a Computer Programmer</h3>
+<p align="left">
+    <img src="./whoami.gif" width="650" alt="Terminal Demo" style="border-radius: 8px;">
+</p>
 
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,bash,lua,docker,git,github,githubactions,linux,ansible,&perline=5"
+    alt="skills"/>
+  </a>
+</p>
